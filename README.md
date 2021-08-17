@@ -1,5 +1,5 @@
 # ionic-infinite-scroll-demo
-Demo of ionic infinite scroll with Vue
+Demo of ionic-infinite-scroll with Vue
 
 Relevant code is in `Home.vue`.
 
